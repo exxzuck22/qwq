@@ -1,0 +1,15 @@
+D:\gitebani\lesosn1\task22\bin\Debug\net6.0\task22.exe
+D:\gitebani\lesosn1\task22\bin\Debug\net6.0\task22.deps.json
+D:\gitebani\lesosn1\task22\bin\Debug\net6.0\task22.runtimeconfig.json
+D:\gitebani\lesosn1\task22\bin\Debug\net6.0\task22.dll
+D:\gitebani\lesosn1\task22\bin\Debug\net6.0\task22.pdb
+D:\gitebani\lesosn1\task22\obj\Debug\net6.0\task22.csproj.AssemblyReference.cache
+D:\gitebani\lesosn1\task22\obj\Debug\net6.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitebani\lesosn1\task22\obj\Debug\net6.0\task22.AssemblyInfoInputs.cache
+D:\gitebani\lesosn1\task22\obj\Debug\net6.0\task22.AssemblyInfo.cs
+D:\gitebani\lesosn1\task22\obj\Debug\net6.0\task22.csproj.CoreCompileInputs.cache
+D:\gitebani\lesosn1\task22\obj\Debug\net6.0\task22.dll
+D:\gitebani\lesosn1\task22\obj\Debug\net6.0\refint\task22.dll
+D:\gitebani\lesosn1\task22\obj\Debug\net6.0\task22.pdb
+D:\gitebani\lesosn1\task22\obj\Debug\net6.0\task22.genruntimeconfig.cache
+D:\gitebani\lesosn1\task22\obj\Debug\net6.0\ref\task22.dll
